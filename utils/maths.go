@@ -24,7 +24,7 @@ func PickRandomGorP(arr []int64) int64 {
 
 func PrimeNumbers() []int64 {
 	list := make([]int64, 0)
-	cant := GetRandomN(4, 8)
+	cant := GetRandomN(10, 15)
 	i := int64(200)
 	for len(list) < cant {
 		if isPrime(i) {
