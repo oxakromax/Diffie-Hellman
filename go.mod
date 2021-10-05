@@ -1,3 +1,3 @@
-module lab4Seguridad
+module github.com/oxakromax/Diffie-Hellman
 
 go 1.17

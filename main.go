@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"lab4Seguridad/DiffieHellman"
+	"github.com/oxakromax/Diffie-Hellman/DiffieHellman"
 )
 
 func main() {

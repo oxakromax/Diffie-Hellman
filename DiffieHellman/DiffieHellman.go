@@ -3,7 +3,7 @@ package DiffieHellman
 import (
 	"encoding/json"
 	"errors"
-	"lab4Seguridad/utils"
+	"github.com/oxakromax/Diffie-Hellman/utils"
 	"math/big"
 )
 
